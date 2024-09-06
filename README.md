@@ -1,4 +1,5 @@
-<div align="center"><img src="img/olangelabbit_clear.png" alt="olangelabbit" width="300" height="300"></div>
+![olangelabbit_clear](https://github.com/user-attachments/assets/9e8c891e-f2fb-412e-9af4-be4d6c2852f3)
+
 <h2 align="center">jsassessment (Find Uncle Roger's Carrot Seasoned with MSG!!)</h2>
 
 Javascript Assessment for FSD-04 (Generation)
@@ -10,9 +11,11 @@ To clone Git repo to initialize/play on Git Terminal using node index.js
 ---
 
 **Game Start**
-<div align="left"><img src="img/fuiyoh_1.JPG" alt="olangelabbit" width="600" height="400"></div>
+![fuiyoh_1](https://github.com/user-attachments/assets/bdb4388e-12fc-49ff-a6ea-135501b8e226)
+
 
 **Gameplay**
-<div align="left"><img src="img/fuiyoh_animated.gif" alt="olangelabbit" width="600" height="400"></div>
+![fuiyoh_animated](https://github.com/user-attachments/assets/5675c11a-60c3-4a18-b265-f32881e4c41e)
+
 
 ---
