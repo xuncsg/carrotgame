@@ -1,4 +1,6 @@
-![olangelabbit_clear_sm](https://github.com/user-attachments/assets/a22d15d8-740a-4343-9243-48e00624d603)
+<div align="center">
+  <img alt="Logo" src="https://github.com/user-attachments/assets/a22d15d8-740a-4343-9243-48e00624d603">
+</div>
 <h2 align="center">jsassessment (Find Uncle Roger's Carrot Seasoned with MSG!!)</h2>
 
 Javascript Assessment for FSD-04 (Generation)
